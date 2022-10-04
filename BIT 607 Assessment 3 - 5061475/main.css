@@ -1,0 +1,96 @@
+  html{
+    font-size: 2vw;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive;
+    color: #1c6666;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+
+  h2{
+    text-decoration: underline;
+  }
+
+  h3{
+    font-style: italic;
+  }
+  
+  nav{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2rem;
+    color: #1c6666;
+    background-color: #f5fcff7a;
+  }
+  
+  body {
+    background-color: #c1e9e9;
+    font-family: Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: #0f3535;
+    text-align: center;
+  }
+  
+  p {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-family: Tahoma, sans-serif;
+  }
+
+  img {
+    float: center;
+    display: block;
+    border-radius: 2vw;
+    width: 50vw;
+    max-width: 75%;
+    height: auto;
+    margin: auto;
+  }
+
+  a:link {
+    color: #1c6666;
+  }
+
+  a:visited {
+    color: purple;
+  }
+
+  ul {
+    padding-left: 0;
+  }
+  
+  .button{
+    padding: 2.5vw;
+    font-size: auto;
+    max-width: auto;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  table, th, td {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  footer {
+    text-align: center;
+    position: static;
+    bottom:0;
+    padding: 0.5vw;
+    font-size: 2.5vw;
+    width: auto;
+    background-color: #f5fcff7a;
+  }
+  
