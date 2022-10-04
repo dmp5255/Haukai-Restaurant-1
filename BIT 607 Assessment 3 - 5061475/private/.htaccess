@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted access"
-AuthUserFile "/private/.htpasswd"
+AuthUserFile "BIT 607 Assessment 3 - 5061475/private/.htpasswd"
 Require valid-user
