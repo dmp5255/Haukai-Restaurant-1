@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Staff Use Only"​
-AuthUserFile "/app/www/.htpasswd"​
+AuthUserFile "/app/www/BIT 607 Assessment 3 - 5061475/private/.htpasswrd.txt"​
 Require valid-user​
