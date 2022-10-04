@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Staff Use Only"​
+AuthUserFile "/app/www/.htpasswd"​
+Require valid-user​
